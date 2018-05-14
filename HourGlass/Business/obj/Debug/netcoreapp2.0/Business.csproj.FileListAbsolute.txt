@@ -1,0 +1,14 @@
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\Business\obj\Debug\netcoreapp2.0\Business.csprojResolveAssemblyReference.cache
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\Business\obj\Debug\netcoreapp2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfoInputs.cache
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfo.cs
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\Business\bin\Debug\netcoreapp2.0\Business.deps.json
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\Business\bin\Debug\netcoreapp2.0\Business.runtimeconfig.json
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\Business\bin\Debug\netcoreapp2.0\Business.runtimeconfig.dev.json
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\Business\bin\Debug\netcoreapp2.0\Business.dll
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\Business\bin\Debug\netcoreapp2.0\Business.pdb
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\Business\bin\Debug\netcoreapp2.0\Datastore.dll
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\Business\bin\Debug\netcoreapp2.0\Datastore.pdb
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\Business\obj\Debug\netcoreapp2.0\Business.csproj.CopyComplete
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\Business\obj\Debug\netcoreapp2.0\Business.dll
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\Business\obj\Debug\netcoreapp2.0\Business.pdb

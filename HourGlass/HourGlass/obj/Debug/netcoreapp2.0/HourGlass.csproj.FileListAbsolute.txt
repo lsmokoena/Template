@@ -1,0 +1,16 @@
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\HourGlass\bin\Debug\netcoreapp2.0\HourGlass.deps.json
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\HourGlass\bin\Debug\netcoreapp2.0\HourGlass.runtimeconfig.json
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\HourGlass\bin\Debug\netcoreapp2.0\HourGlass.runtimeconfig.dev.json
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\HourGlass\bin\Debug\netcoreapp2.0\HourGlass.dll
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\HourGlass\bin\Debug\netcoreapp2.0\HourGlass.pdb
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\HourGlass\obj\Debug\netcoreapp2.0\HourGlass.csprojResolveAssemblyReference.cache
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\HourGlass\obj\Debug\netcoreapp2.0\HourGlass.csproj.CoreCompileInputs.cache
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\HourGlass\obj\Debug\netcoreapp2.0\HourGlass.AssemblyInfoInputs.cache
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\HourGlass\obj\Debug\netcoreapp2.0\HourGlass.AssemblyInfo.cs
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\HourGlass\obj\Debug\netcoreapp2.0\HourGlass.dll
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\HourGlass\obj\Debug\netcoreapp2.0\HourGlass.pdb
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\HourGlass\obj\Debug\netcoreapp2.0\HourGlass.csproj.CopyComplete
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\HourGlass\bin\Debug\netcoreapp2.0\Business.dll
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\HourGlass\bin\Debug\netcoreapp2.0\Datastore.dll
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\HourGlass\bin\Debug\netcoreapp2.0\Business.pdb
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\HourGlass\bin\Debug\netcoreapp2.0\Datastore.pdb

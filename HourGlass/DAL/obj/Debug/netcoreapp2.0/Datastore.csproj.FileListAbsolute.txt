@@ -1,0 +1,10 @@
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\DAL\bin\Debug\netcoreapp2.0\Datastore.deps.json
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\DAL\bin\Debug\netcoreapp2.0\Datastore.runtimeconfig.json
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\DAL\bin\Debug\netcoreapp2.0\Datastore.runtimeconfig.dev.json
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\DAL\bin\Debug\netcoreapp2.0\Datastore.dll
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\DAL\bin\Debug\netcoreapp2.0\Datastore.pdb
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\DAL\obj\Debug\netcoreapp2.0\Datastore.csproj.CoreCompileInputs.cache
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\DAL\obj\Debug\netcoreapp2.0\Datastore.AssemblyInfoInputs.cache
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\DAL\obj\Debug\netcoreapp2.0\Datastore.AssemblyInfo.cs
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\DAL\obj\Debug\netcoreapp2.0\Datastore.dll
+C:\Users\lehana.mokoena\Documents\Projects\Hackathone\HourGlass\DAL\obj\Debug\netcoreapp2.0\Datastore.pdb
